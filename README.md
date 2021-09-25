@@ -1,6 +1,6 @@
 # MoviVerse App
 
-_****Live Project Link : ****_https://moviverse-app.netlify.app/
+###Live Project Link : https://moviverse-app.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
